@@ -1,6 +1,6 @@
 
 
---Sample data for table ADDRESSES
+-- Sample data for table ADDRESSES
 
 INSERT INTO ADDRESSES (ADDR_ID,STREET,CITY,STATE,ZIP,COUNTRY) VALUES 
  (1,'4891 Pacific Hwy','San Diego','CA','92110','San Diego'),
