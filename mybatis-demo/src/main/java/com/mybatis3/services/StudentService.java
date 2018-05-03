@@ -4,7 +4,6 @@ import com.mybatis3.domain.Student;
 import com.mybatis3.mappers.StudentMapper;
 import com.mybatis3.util.MybatisSqlSessionFactory;
 import org.apache.ibatis.session.SqlSession;
-import org.apache.ibatis.session.SqlSessionFactory;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

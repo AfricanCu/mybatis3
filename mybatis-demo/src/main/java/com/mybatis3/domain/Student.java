@@ -1,7 +1,10 @@
 package com.mybatis3.domain;
 
-import java.util.Date;
 
+import java.util.Date;
+import org.apache.ibatis.type.Alias;
+
+@Alias("studentdemo")
 public class Student {
     private Integer studId;
     private String name;
